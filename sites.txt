@@ -1,0 +1,9 @@
+CPU, https://www.amazon.com/dp/B07SXMZLPK?tag=pcpapi-20&linkCode=ogi&th=1&psc=1
+CPUcooler, https://www.amazon.com/dp/B07R6YLDDS?tag=pcpapi-20&linkCode=ogi&th=1&psc=1
+Mboard, https://www.amazon.com/dp/B07WF6ZQST?tag=pcpapi-20&linkCode=ogi&th=1&psc=1
+RAM, https://www.amazon.com/dp/B07D1XCKWW?tag=pcpapi-20&linkCode=ogi&th=1&psc=1
+SSD, https://www.amazon.com/dp/B07BN4NJ2J?tag=pcpapi-20&linkCode=ogi&th=1&psc=1
+HDD, https://www.amazon.com/dp/B071WLPRHN?tag=pcpapi-20&linkCode=ogi&th=1&psc=1
+GPU, https://www.amazon.com/dp/B07N824KNV?tag=pcpapi-20&linkCode=ogi&th=1&psc=1
+Case, https://www.amazon.com/dp/B07RQW7W9P?tag=pcpapi-20&linkCode=ogi&th=1&psc=1
+PSU, https://www.amazon.com/dp/B07RF237B1?tag=pcpapi-20&linkCode=ogi&th=1&psc=1
